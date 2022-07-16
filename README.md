@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm esio, DevOps engineer based in Gdańsk 🇵🇱
+I'm esio, DevSecOps engineer based in Gdańsk 🇵🇱
 
 What I do:
 
